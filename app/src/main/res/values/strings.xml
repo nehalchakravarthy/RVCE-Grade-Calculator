@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">RVCE Grade Calculator</string>
+    <string name="grading_system_text">RVCE Grading System</string>
+    <string name="cie_score_text">CIE Score</string>
+    <string name="see_score_text">SEE Score</string>
+    <string name="grade_button_text">Grade</string>
+    <string name="lab_checkbox_text">Includes Lab</string>
 </resources>
